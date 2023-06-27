@@ -11,15 +11,7 @@
 
 <br />
 
-### Connect with me:
-
-[![twitter](twitter.svg)](https://twitter.com/AbhirajThakur21)
-[![linkedin](linkedin.svg)](https://www.linkedin.com/in/abhirajthakur21/)
-
-<br />
-
 ### Things I code with:
-
 ![solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![foundry](https://tinyurl.com/2s397eh4)
 ![hardhat](https://tinyurl.com/yjs68jbs)
@@ -32,3 +24,10 @@
 ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+
+
+<br />
+
+### Connect with me:
+[![twitter](images/twitter.svg)](https://twitter.com/AbhirajThakur21)
+[![linkedin](images/linkedin.svg)](https://www.linkedin.com/in/abhirajthakur21/)
