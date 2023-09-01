@@ -15,7 +15,7 @@
 
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![foundry](https://tinyurl.com/2s397eh4)
-![hardaht](https://tinyurl.com/2h4nv99z)
+![hardaht](https://tinyurl.com/2h3x8cfz)
 ![openzeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
