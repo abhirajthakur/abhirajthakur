@@ -2,7 +2,7 @@
 
 ### Highly Skilled Fullstack Developer with Blockchain Expertise
 
-###### Versatile and driven software engineer with a strong foundation in solid programming principles and a passion for cutting-edge technologies. Seeking an opportunity to leverage my diverse skillset and contribute to the growth of innovative, high-impact projects.
+##### Versatile and driven software engineer with a strong foundation in solid programming principles and a passion for cutting-edge technologies. Seeking an opportunity to leverage my diverse skillset and contribute to the growth of innovative, high-impact projects.
 
 <br />
 
