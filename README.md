@@ -83,8 +83,3 @@ Interested in backend infrastructure, distributed systems, and developer tooling
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-293031?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 
 ---
-
-## Connect With Me
-
-[![X](images/x.svg)](https://x.com/abhirajthakur21)
-[![linkedin](images/linkedin.svg)](https://www.linkedin.com/in/abhirajthakur21/)
