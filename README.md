@@ -1,43 +1,90 @@
-# Hi, I am [Abhiraj Thakur](https://abhirajthakur.vercel.app) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" />
+---
+Hi, I'm Abhiraj Thakur 👋
 
-### Highly Skilled Fullstack Developer
+Backend-focused software engineer passionate about building scalable systems, developer platforms, and high-performance web applications.
+Interested in backend infrastructure, distributed systems, and developer tooling.
+---
 
-##### Versatile and driven software engineer with a strong foundation in solid programming principles and a passion for cutting-edge technologies. Seeking an opportunity to leverage my diverse skillset and contribute to the growth of innovative, high-impact projects.
+## About Me
 
-<br />
+- Backend / Fullstack Engineer with a strong focus on **TypeScript, Python and system design**
+- Interested in **platform engineering, developer tooling and distributed systems**
+- Passionate about **infrastructure, automation, and platform engineering**
+- Open to **software engineering roles and internships**
 
-- Pronouns: **He/Him**
-- Currently looking for a job/internship in the tech industry as a fullstack developer.
-- I'm eager to collaborate on a wide range of projects, including web applications and decentralized blockchain-based solutions.
-- How to reach me [abhirajthakur124@gmail.com](mailto:abhirajthakur124@gmail.com)
+📫 Reach me at: **[abhirajthakur124@gmail.com](mailto:abhirajthakur124@gmail.com)**
 
-<br />
+---
 
-### Key skills and Expertise:
+## Tech Stack
 
-- **Fullstack Development**: Proficient in building robust, scalable, and user-friendly web applications using modern JavaScript frameworks and libraries, including **React.js**, **Next.js**, **Node.js**, **Express**, and **Prisma**.
-- **TypeScript**: Adept at leveraging the benefits of TypeScript to write maintainable, type-safe code across the fullstack.
-- **Database Management**: Skilled in working with **MongoDB** and other NoSQL databases to design and implement efficient data storage and retrieval solutions.
+### Languages
 
-### Things I code with:
+- **TypeScript**
+- **Python**
+- **JavaScript**
+
+### Backend & Systems
+
+- **Node.js**
+- **Express**
+- **FastAPI**
+- **Redis**
+- **Celery**
+- **BullMQ**
+- **PostgreSQL**
+- **MongoDB**
+- **Prisma ORM**
+- **Drizzle ORM**
+
+### AI & LLMs
+
+- **Google Gemini**
+- **Prompt Engineering**
+
+### Infrastructure
+
+- **Docker**
+- **CI/CD**
+- **Linux**
+- **GCP**
+- **S3-compatible storage**
+
+### Frontend
+
+- **React**
+- **Next.js**
+- **Tailwind CSS**
+
+---
+
+## What I Enjoy Building
+
+- Backend APIs and distributed systems
+- Developer platforms and tooling
+- Infrastructure automation
+- AI-enabled backend services
+- Scalable web applications
+
+---
+
+## Things I Code With
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![nodejs](https://img.shields.io/badge/Node.js-339911?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Mongo-DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/Tailwind_CSS-293031?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-293031?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 
-<br />
+---
 
-### Connect with me:
+## Connect With Me
 
-[![twitter](images/twitter.svg)](https://twitter.com/AbhirajThakur21)
+[![X](images/x.svg)](https://x.com/abhirajthakur21)
 [![linkedin](images/linkedin.svg)](https://www.linkedin.com/in/abhirajthakur21/)
-[![hashnode](images/hashnode.svg)](https://abhirajthakur.hashnode.dev/)
