@@ -1,8 +1,7 @@
----
-Hi, I'm Abhiraj Thakur 👋
+# Hi, I'm Abhiraj Thakur 👋
 
-Backend-focused software engineer passionate about building scalable systems, developer platforms, and high-performance web applications.
-Interested in backend infrastructure, distributed systems, and developer tooling.
+Backend-focused software engineer passionate about building scalable systems, developer platforms, and high-performance web applications. Interested in backend infrastructure, distributed systems, and developer tooling.
+
 ---
 
 ## About Me
